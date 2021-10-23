@@ -5,13 +5,6 @@ permalink: /contact/
 category_name: writing
 ---
 
-<form action="https://getform.io/f/d54fe01e-e018-434f-824b-5e6053c93989" method="POST">
-    <input type="text" name="name">
-    <input type="email" name="email">
-    <input type="text" name="message">
-    <button type="submit">Send</button>
-</form>
-
 <form accept-charset="UTF-8" action="https://getform.io/f/d54fe01e-e018-434f-824b-5e6053c93989" method="POST" enctype="multipart/form-data" target="_blank">
           <div class="form-group">
             <label for="exampleInputEmail1" required="required">Email address</label>
