@@ -17,7 +17,7 @@ title: sasha gaylie
 description: Hi! I'm an MLIS candidate at the UBC School of Information. Browse my projects below.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: portfolio # the GitHub repo name for your project
+github_repo: sashacsy.github.io # the GitHub repo name for your project
 github_username: sashacsy
 
 # Optional social link, you can choose from the following options:
