@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: sasha gaylie
 description: Hi! I'm an MLIS candidate at the UBC School of Information. Browse my projects below.
-baseurl: "https://sashacsy.github.io/portfolio/" # the subpath of your site, e.g. /blog
-url: "https://sashacsy.github.io/portfolio/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: portfolio # the GitHub repo name for your project
 github_username: sashacsy
 
