@@ -5,8 +5,10 @@ date:   2021-05-01
 categories: projects
 ---
 
-### A Guide to OHMS
-#### Expanding Indexing and Metadata Capabilities for Oral History Projects
+## A Guide to OHMS:
+### Expanding Indexing and Metadata Capabilities for Oral History Projects
+
+<br>
 
 For my final project for my Metadata course, I wrote this practical guide to using the Oral History Metadata Synchronizer (OHMS) to create segment indexes and metadata records for oral history projects. There were two goals in constructing this guide. The first was to highlight the advocatory nature of oral history, and demonstrate how developments in metadata and digital resource management can aid practitioners in assessing access to their collections. The second was to provide a walkthrough of the metadata creation and indexing possibilities of the OHMS system by drawing on my own experience using the toolkit.
 
