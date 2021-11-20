@@ -2,7 +2,7 @@
 layout: category-post
 title:  "A Guide to OHMS"
 date:   2021-05-01
-categories: writing
+categories: Projects
 ---
 
 ### A Guide to OHMS
