@@ -15,7 +15,7 @@ I was also lucky to be working on an interview with a narrator who spoke at leng
 
 A PDF of my full transcript and segment index is available here:
 
-<object data="https://github.com/sashacsy/sashacsy.github.io/files/gaylie_lee_20210303_ohmsinterview_transcript.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="{{ site.url }}{{ site.baseurl }}/files/gaylie_lee_20210303_ohmsinterview_transcript.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 My final project, <a href="">A Guide to OHMS: Expanding Metadata and Indexing Capabilities for Oral History Projects</a>, goes into much more detail about my experience using OHMS and provides some context around the current landscape of oral history metadata. You can read more about my interview with narrator Mark Lee, which explores the relationship between food and identity, on _The 2020 (Re)Collection_ exhibit page <a href="https://blogs.ubc.ca/2020recollection/food-as-resistance/">here</a>, or you can watch the full interview below:
 
