@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title:  "Transcribing and indexing an oral history interview"
+title:  "Processing an oral history interview"
 date:   2021-04-19
 categories: writing
 ---
@@ -9,7 +9,7 @@ I was grateful to have the opportunity this year to conduct and process my own o
 
 ![Preview of the metadata editor in the OHMS application](https://github.com/sashacsy/sashacsy.github.io/blob/master/files/metadata_editor.png?raw=true) | 
 |:--:| 
-| *The Metadata Editor in the OHMS Application* |
+<c>| *The Metadata Editor in the OHMS Application* |</c>
 
 I was also lucky to be working on an interview with a narrator who spoke at length about Cantonese identity in his interview and intermittently used Cantonese while speaking. This gave me a valuable opportunity to take a look at the bilingual features offered by the OHMS system and explore other projects that have been able to enhance discoverability and access to their projects through these features.
 
