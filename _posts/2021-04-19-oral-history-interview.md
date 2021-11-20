@@ -2,7 +2,7 @@
 layout: category-post
 title:  "Processing an oral history interview"
 date:   2021-04-19
-categories: writing
+categories: projects
 ---
 
 I was grateful to have the opportunity this year to conduct and process my own oral history interview for the first time through the course _LIBR 588: Theory and Practice of Oral History_. Combined with some prior research into metadata for audiovisual resources, I was inspired to incorporate my interview into my final project for my Metadata course. I soon discovered the Oral History Metadata Synchronizer, a system developed by researchers at the Louie B. Nunn Center for Oral History at the University of Kentucky, and chose to experiment with its Metadata Editor, transcript synchronization function, and Index module.
