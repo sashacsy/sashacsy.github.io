@@ -19,7 +19,7 @@ I am an MLIS candidate at the UBC School of Information and projected to graduat
 * IBPOC advocacy in library, archival, and information settings
 
 ## Professional Experience
-<small>* [AUG 2021 - PRESENT] Student Librarian, BC Electronic Library Network
+* [AUG 2021 - PRESENT] Student Librarian, BC Electronic Library Network
 * [MAY 2021 - PRESENT] Digital Repository Research Assistant, cIRcle @ Digital Initiatives, UBC Library
 * [FEB 2019 - AUG 2020] English Instructor, Jes Island Language Academy, Seoul, SK
 * [MAY 2018 - SEP 2018] Graduate Academic Assistant, Rare Books & Special Collections/PARC, UBC Library
@@ -28,7 +28,7 @@ I am an MLIS candidate at the UBC School of Information and projected to graduat
 * [APR 2017 - OCT 2017] Museum Assistant, Museum of Anthropology, University of British Columbia
 * [JUL 2016 - NOV 2016] Tape Logger, Omnifilm Entertainment Ltd.
 * [SEP 2014 - JUL 2016] Laboratory Coordinator, Canadian English Lab, University of British Columbia
-* [JAN 2014 - AUG 2014] Research Assistant, Canadian English Lab, University of British Columbia</small>
+* [JAN 2014 - AUG 2014] Research Assistant, Canadian English Lab, University of British Columbia
 
 ## Skills
 * Digital repository systems
