@@ -6,17 +6,17 @@ permalink: /about/
 
 ![](https://github.com/sashacsy/sashacsy.github.io/blob/master/files/SashaGaylie-modified.png?raw=true)
 
-<small>Hello! My name is Sasha and my pronouns are she/her.
+Hello! My name is Sasha and my pronouns are she/her.
 I am a queer and mixed-race, second-generation Chinese settler born, raised, and living on the traditional and unceded lands of the sc̓əwaθenaɁɬ təməxʷ (Tsawwassen), Stó:lō, Stz’uminus, and xʷməθkʷəy̓əm (Musqueam) peoples.
 
-I am an MLIS candidate at the UBC School of Information and projected to graduate in May 2022. </small>
+I am an MLIS candidate at the UBC School of Information and projected to graduate in May 2022.
 
 ## Areas of Interest
-<small>* Academic/research libraries
+* Academic/research libraries
 * Digital repositories and digital asset management
 * Metadata, particularly ethical and accessible description
 * Audiovisual collections, including oral history projects
-* IBPOC advocacy in library, archival, and information settings</small>
+* IBPOC advocacy in library, archival, and information settings
 
 ## Professional Experience
 <small>* [AUG 2021 - PRESENT] Student Librarian, BC Electronic Library Network
