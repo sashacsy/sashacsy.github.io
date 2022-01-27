@@ -20,4 +20,4 @@ Included in the guide are examples of the many uses of OHMS for audiovisual proj
 
 View or download the guide here:
 
-<object data="{{ site.url }}{{ site.baseurl }}/files/Gaylie_OHMSGuide_0.6.pdf" width="700" height="700" type="application/pdf"></object>
+
