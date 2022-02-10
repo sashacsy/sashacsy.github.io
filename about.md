@@ -9,7 +9,7 @@ permalink: /about/
 Hello! My name is Sasha and my pronouns are she/her.
 I am a queer and mixed-race, second-generation Chinese settler born, raised, and living on the traditional and unceded lands of the sc̓əwaθenaɁɬ təməxʷ (Tsawwassen), Stó:lō, Stz’uminus, and xʷməθkʷəy̓əm (Musqueam) peoples.
 
-I am an MLIS candidate at the UBC School of Information and projected to graduate in May 2022.
+I am an MLIS student at the UBC School of Information and projected to graduate in May 2022.
 
 ## Areas of Interest
 * Academic/Research libraries
@@ -85,5 +85,5 @@ Demonstrated working experience with:
 * LIBR 509: Foundations of Bibliographic Control
 
 
-
+<br><br>
 Last Updated: 2022-02-10
