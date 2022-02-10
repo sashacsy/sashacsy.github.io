@@ -20,7 +20,7 @@ code {
 
   a {
       color: $color-primary-link;   
-      text-decoration: none;
+      text-decoration: underline dotted;
 
     &:hover {
       color: $color-primary-link
