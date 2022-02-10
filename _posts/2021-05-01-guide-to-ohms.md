@@ -5,7 +5,6 @@ date:   2021-05-01
 categories: projects
 ---
 
-### A Guide to OHMS:
 ### Expanding Indexing and Metadata Capabilities for Oral History Projects
 
 <br>
