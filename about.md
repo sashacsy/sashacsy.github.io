@@ -12,10 +12,12 @@ I am a queer and mixed-race, second-generation Chinese settler born, raised, and
 I am an MLIS candidate at the UBC School of Information and projected to graduate in May 2022.
 
 ## Areas of Interest
-* Academic/research libraries
+* Academic/Research libraries
 * Digital repositories and digital asset management
 * Metadata, particularly ethical and accessible description
-* Audiovisual collections, including oral history projects
+* Digitization
+* Audiovisual collections
+* Oral history
 * IBPOC advocacy in library, archival, and information settings
 
 ## Professional Experience
@@ -30,7 +32,7 @@ I am an MLIS candidate at the UBC School of Information and projected to graduat
 * [SEP 2014 - JUL 2016] Laboratory Coordinator, Canadian English Lab, University of British Columbia
 * [JAN 2014 - AUG 2014] Research Assistant, Canadian English Lab, University of British Columbia
 
-## Skills
+## Technical Skills
 Demonstrated working experience with:
 * Digital repository systems and software
     * DSpace
@@ -83,5 +85,7 @@ Demonstrated working experience with:
 * LIBR 507: Methods of Research and Evaluation in Information Organizations
 * LIBR 508: Information Practices in Contemporary Society
 * LIBR 509: Foundations of Bibliographic Control
+
+
 
 Last Updated: 2022-02-10
