@@ -19,11 +19,11 @@ code {
 
   a {
       color: #E74727;   
-      text-decoration: underline dotted;
+      font-style: bold;
 
     &:hover {
       color: #E74727;
-      text-decoration: underline;
+      text-decoration: underline wavy;
     }
   }
 
