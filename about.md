@@ -13,11 +13,9 @@ I am an MLIS candidate at the UBC School of Information and projected to graduat
 
 ## Areas of Interest
 * Academic/Research libraries
-* Digital repositories and digital asset management
+* Digital repositories, digital asset management & digitization projects
 * Metadata, particularly ethical and accessible description
-* Digitization
-* Audiovisual collections
-* Oral history
+* Audiovisual collections and oral history
 * IBPOC advocacy in library, archival, and information settings
 
 ## Professional Experience
