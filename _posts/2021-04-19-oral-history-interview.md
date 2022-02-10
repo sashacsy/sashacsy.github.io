@@ -16,7 +16,8 @@ I was grateful to have the opportunity this year to conduct and process my own o
 <br>
 <br>
 <br>
-I was also lucky to be working on an interview with a narrator who spoke at length about Cantonese identity in his interview and intermittently used Cantonese while speaking. This gave me a valuable opportunity to take a look at the bilingual features offered by the OHMS system and explore other projects that have been able to enhance discoverability and access to their projects through these features.
+I was also lucky to be working on an interview with a narrator who spoke at length about Cantonese identity in his interview and intermittently used Cantonese while speaking. This gave me a valuable opportunity to take a look at the bilingual functionality offered by the OHMS system and explore other projects that have been able to enhance discoverability and access with these features.
+
 <br>
 <br>
 <br>
@@ -29,6 +30,7 @@ I was also lucky to be working on an interview with a narrator who spoke at leng
 <br>
 <br>
 My final project, <a href="https://sashacsy.github.io/projects/2021/05/01/guide-to-ohms.html">A Guide to OHMS: Expanding Metadata and Indexing Capabilities for Oral History Projects</a>, goes into much more detail about my experience using OHMS and provides some context around the current landscape of oral history metadata. You can view and read more about my interview with narrator Mark Lee, which explores the relationship between food and identity, on _The 2020 (Re)Collection_ exhibit page <a href="https://blogs.ubc.ca/2020recollection/food-as-resistance/">here</a>.
+<br>
 <br>
 
 The full transcript and segment index is available as a PDF here:
