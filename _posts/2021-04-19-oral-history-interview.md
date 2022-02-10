@@ -16,6 +16,7 @@ I was also lucky to be working on an interview with a narrator who spoke at leng
 <br><br>
 
 ![Preview of bilingual functionality in the OHMS indexing module](https://github.com/sashacsy/sashacsy.github.io/blob/master/files/chinese_indexing.png?raw=true)
+
 <small><i>Fig. 2: The Index module in the OHMS application</i></small>
 
 <br> 
