@@ -19,11 +19,11 @@ code {
 .prose {
 
   a {
-      color: $color-primary-link;   
+      color: #E74727;   
       text-decoration: underline dotted;
 
     &:hover {
-      color: $color-primary-link
+      color: #E74727;
       text-decoration: underline;
     }
   }
