@@ -31,7 +31,8 @@ I am an MLIS candidate at the UBC School of Information and projected to graduat
 * [JAN 2014 - AUG 2014] Research Assistant, Canadian English Lab, University of British Columbia
 
 ## Skills
-* Digital repository systems
+Demonstrated working experience with:
+* Digital repository systems and software
     * DSpace
     * Islandora
 * Metadata remediation tools
@@ -82,3 +83,5 @@ I am an MLIS candidate at the UBC School of Information and projected to graduat
 * LIBR 507: Methods of Research and Evaluation in Information Organizations
 * LIBR 508: Information Practices in Contemporary Society
 * LIBR 509: Foundations of Bibliographic Control
+
+Last Updated: 2022-02-10
