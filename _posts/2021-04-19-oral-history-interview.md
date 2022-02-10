@@ -25,4 +25,4 @@ My final project, <a href="https://sashacsy.github.io/projects/2021/05/01/guide-
 
 The full transcript and segment index is available as a PDF here:
 
-<object data="{{ site.url }}{{ site.baseurl }}/files/gaylie_lee_20210303_ohmsinterview_transcript.pdf" width="700" height="700" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/files/gaylie_lee_20210303_ohmsinterview_transcript.pdf" width="500" height="500" type="application/pdf"></object>
