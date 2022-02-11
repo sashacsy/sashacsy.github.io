@@ -10,11 +10,6 @@ I was grateful to have the opportunity this year to conduct and process my own o
 <br>
 <br>
 
-<img class="framed" src="https://github.com/sashacsy/sashacsy.github.io/blob/master/files/metadata_editor.png?raw=true">
-<small><i>Fig. 1: The Metadata Editor in the OHMS Application</i></small>
-<br>
-<br>
-
 ![Preview of the metadata editor in the OHMS application](https://github.com/sashacsy/sashacsy.github.io/blob/master/files/metadata_editor.png?raw=true)
 <small><i>Fig. 1: The Metadata Editor in the OHMS Application</i></small>
 
