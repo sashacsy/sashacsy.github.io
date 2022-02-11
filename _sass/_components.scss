@@ -58,6 +58,12 @@ code {
       max-width: (12 / 10 * 100%); // make image fill width of container on desktop
     }
 
+  img.framed {
+  box-shadow:
+    -50px -50px 0 -40px $red,
+    50px 50px 0 -40px $red;
+}
+      
   }
 
   blockquote {
