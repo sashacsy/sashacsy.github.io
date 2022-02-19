@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Overview
+title: Portfolio
 permalink: /projects/
 ---
 
