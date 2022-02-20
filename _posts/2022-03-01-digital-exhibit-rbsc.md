@@ -6,7 +6,7 @@ categories: projects
 ---
 
 ### Visualizing correspondence for a digital exhibit
-<br><br>
+<br>
 
 I was grateful to have the opportunity last summer to create <a href="https://ubc-library-rbsc.github.io/gillis-2021/"><i>I Know We'll Meet Again: Correspondence and the forced dispersal of Japanese Canadians</i></a>, a virtual exhibit featuring materials from the Joan Gillis fonds housed at UBC Library's Rare Books & Special Collections. The exhibit focuses on a selection of letters written by young Japanese Canadians that describe the childhoods they were able to have. It details their deep homesickness and sense of isolation from their friends and communities, the new living and labour conditions they had to endure, their continued sense of Canadian identity even as the government labeled them “alien,” the bright spots they were able to find in their present conditions, and their imaginations for the future.
 <br><br>
