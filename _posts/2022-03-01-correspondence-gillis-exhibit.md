@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title:  I Know We'll Meet Again: A virtual exhibit on correspondence
+title:  ! '"I Know We'll Meet Again": A virtual exhibit on correspondence'
 date:   2022-03-01
 categories: projects
 ---
