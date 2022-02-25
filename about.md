@@ -24,7 +24,7 @@ I am an MLIS student at the UBC School of Information and projected to graduate 
 * [Feb 2019 - Aug 2020](#) \\\ English Instructor, Jes Island Language Academy, Seoul, SK
 * [May 2018 - Sep 2018](#) \\\ Graduate Academic Assistant, Rare Books & Special Collections/PARC, UBC Library
 * [Oct 2017 - Dec 2021](#) \\\ Library Service Assistant, Vancouver Public Library
-* [Sep 2017 - Dec 2018](#) \\\ Circulation & Collections Management Assistant, Rare Books & Special Collections, UBC Library
+* [Sep 2017 - Dec 2018](#) \\\ Circulation & Collections Management Assistant, RBSC, UBC Library
 * [Apr 2017 - Oct 2017](#) \\\ Museum Assistant, Museum of Anthropology, University of British Columbia
 * [Jul 2016 - Nov 2016](#) \\\ Tape Logger, Omnifilm Entertainment Ltd.
 * [Sep 2014 - Jul 2016](#) \\\ Laboratory Coordinator, Canadian English Lab, University of British Columbia
