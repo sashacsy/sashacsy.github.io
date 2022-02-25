@@ -15,7 +15,7 @@ I am an MLIS student at the UBC School of Information and projected to graduate 
 * Academic/Research libraries
 * Digital repositories and digital asset management
 * Metadata, particularly ethical and accessible description
-* Audiovisual collections and oral history
+* Audiovisual and oral history collections
 * IBPOC advocacy in library, archival, and information settings
 
 ## Professional Experience
