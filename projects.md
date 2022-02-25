@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /projects/
 ---
 
-Last Updated: 2022-02-19
+Last Updated: 2022-02-25
 
 * [2022-03-01](https://sashacsy.github.io/projects/2022/02/25/digital-exhibit-rbsc.html) \\\ "I Know We'll Meet Again": Visualizing correspondence in a digital exhibit
 * [2021-05-01](https://sashacsy.github.io/projects/2021/05/01/guide-to-ohms.html) \\\ A Guide to OHMS
