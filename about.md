@@ -19,16 +19,16 @@ I am an MLIS student at the UBC School of Information and projected to graduate 
 * IBPOC advocacy in library, archival, and information settings
 
 ## Professional Experience
-* [AUG 2021 - PRES](#) \\ Student Librarian, BC Electronic Library Network
-* [MAY 2021 - PRES]() \\ Digital Repository Research Assistant, cIRcle @ Digital Initiatives, UBC Library
-* [FEB 2019 - AUG 2020] English Instructor, Jes Island Language Academy, Seoul, SK
-* [MAY 2018 - SEP 2018] Graduate Academic Assistant, Rare Books & Special Collections/PARC, UBC Library
-* [OCT 2017 - DEC 2021] Library Service Assistant, Vancouver Public Library
-* [SEP 2017 - DEC 2018] Circulation & Collections Management Assistant, Rare Books & Special Collections, UBC Library
-* [APR 2017 - OCT 2017] Museum Assistant, Museum of Anthropology, University of British Columbia
-* [JUL 2016 - NOV 2016] Tape Logger, Omnifilm Entertainment Ltd.
-* [SEP 2014 - JUL 2016] Laboratory Coordinator, Canadian English Lab, University of British Columbia
-* [JAN 2014 - AUG 2014] Research Assistant, Canadian English Lab, University of British Columbia
+* [Aug 2021 - Present](#) \\\ Student Librarian, BC Electronic Library Network
+* [May 2021 - Present](#) \\\ Digital Repository Research Assistant, cIRcle @ Digital Initiatives, UBC Library
+* [Feb 2019 - Aug 2020](#) \\\ English Instructor, Jes Island Language Academy, Seoul, SK
+* [May 2018 - Sep 2018](#) \\\ Graduate Academic Assistant, Rare Books & Special Collections/PARC, UBC Library
+* [Oct 2017 - Dec 2021](#) \\\ Library Service Assistant, Vancouver Public Library
+* [Sep 2017 - Dec 2018](#) \\\ Circulation & Collections Management Assistant, Rare Books & Special Collections, UBC Library
+* [Apr 2017 - Oct 2017](#) \\\ Museum Assistant, Museum of Anthropology, University of British Columbia
+* [Jul 2016 - Nov 2016](#) \\\ Tape Logger, Omnifilm Entertainment Ltd.
+* [Sep 2014 - Jul 2016](#) \\\ Laboratory Coordinator, Canadian English Lab, University of British Columbia
+* [Jan 2014 - Aug 2014](#) \\\ Research Assistant, Canadian English Lab, University of British Columbia
 
 ## Technical Skills
 Demonstrated working experience with:
@@ -57,14 +57,14 @@ Demonstrated working experience with:
     * oTranscribe
 
 ## Community Involvement
-* [AUG 2020 - PRESENT] <a href="https://ubcideas.wordpress.com/">IDEAS@UBC</a>
-* [MAY 2018 - FEB 2019] Yarrow Intergenerational Society for Justice 世代同⾏會
-* [MAY 2016 - MAR 2018] Youth for Chinese Seniors
+* [Aug 2020 - Present](#) \\\ <a href="https://ubcideas.wordpress.com/">IDEAS@UBC</a>
+* [May 2018 - Feb 2019](#) \\\ Yarrow Intergenerational Society for Justice 世代同⾏會
+* [May 2016 - Mar 2018](#) \\\ Youth for Chinese Seniors
 
 
 ## Education
-* [2018 - PRESENT] MLIS, University of British Columbia
-* [2011 - 2016] BA, English Language, University of British Columbia
+* [2018 - Present](#) \\\ MLIS, University of British Columbia
+* [2011 - 2016](#) \\\ BA, English Language, University of British Columbia
 
 ## Courses Taken
 * LIBR 596: Professional Experience (MRAi & UBC Learning Exchange)
