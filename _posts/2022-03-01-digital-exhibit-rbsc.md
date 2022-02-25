@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title: A digital exhibit for RBSC
-date:   2022-02-18
+date:   2022-02-25
 categories: projects
 ---
 
