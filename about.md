@@ -55,7 +55,7 @@ Demonstrated working experience with:
 * Transcription applications
     * Express Scribe
     * oTranscribe
-* Project management software
+* Project management platforms
     * Asana
     * Trello
     * Redbooth
