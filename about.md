@@ -19,8 +19,8 @@ I am an MLIS student at the UBC School of Information and projected to graduate 
 * IBPOC advocacy in library, archival, and information settings
 
 ## Professional Experience
-* [Aug 2021 - Present](#) \\\ Student Librarian, BC Electronic Library Network
-* [May 2021 - Present](#) \\\ Digital Repository Research Assistant, cIRcle @ Digital Initiatives, UBC Library
+* [Aug 2021 - Present](#)  \\\ Student Librarian, BC Electronic Library Network
+* [May 2021 - Present](#)  \\\ Digital Repository Research Assistant, cIRcle @ Digital Initiatives, UBC Library
 * [Feb 2019 - Aug 2020](#) \\\ English Instructor, Jes Island Language Academy, Seoul, SK
 * [May 2018 - Sep 2018](#) \\\ Graduate Academic Assistant, Rare Books & Special Collections/PARC, UBC Library
 * [Oct 2017 - Dec 2021](#) \\\ Library Service Assistant, Vancouver Public Library
@@ -57,14 +57,14 @@ Demonstrated working experience with:
     * oTranscribe
 
 ## Community Involvement
-* [Aug 2020 - Present](#) \\\ <a href="https://ubcideas.wordpress.com/">IDEAS@UBC</a>
+* [Aug 2020 - Present](#)  \\\ <a href="https://ubcideas.wordpress.com/">IDEAS@UBC</a>
 * [May 2018 - Feb 2019](#) \\\ Yarrow Intergenerational Society for Justice 世代同⾏會
 * [May 2016 - Mar 2018](#) \\\ Youth for Chinese Seniors
 
 
 ## Education
-* [2018 - Present](#) \\\ MLIS, University of British Columbia
-* [2011 - 2016](#) \\\ BA, English Language, University of British Columbia
+* [2022](#) \\\ MLIS, University of British Columbia
+* [2016](#) \\\ BA, English Language, University of British Columbia
 
 ## Courses Taken
 * LIBR 596: Professional Experience (MRAi & UBC Learning Exchange)
