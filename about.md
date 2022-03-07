@@ -55,6 +55,11 @@ Demonstrated working experience with:
 * Transcription applications
     * Express Scribe
     * oTranscribe
+* Project management software
+    * Asana
+    * Trello
+    * Redbooth
+    * Basecamp
 
 ## Community Involvement
 * [Aug 2020 - Present](#)  \\\ <a href="https://ubcideas.wordpress.com/">IDEAS@UBC</a>
