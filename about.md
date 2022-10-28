@@ -9,12 +9,13 @@ permalink: /about/
 Hello! My name is Sasha and my pronouns are she/her.
 I am a queer and mixed-race, second-generation Chinese settler born, raised, and living on the traditional and unceded lands of the sc̓əwaθenaɁɬ təməxʷ (Tsawwassen), Stó:lō, Stz’uminus, and xʷməθkʷəy̓əm (Musqueam) peoples.
 
-I am an MLIS student at the UBC School of Information and projected to graduate in May 2022.
+I am a recent graduate of the UBC School of Information, having completed my MLIS in May 2022.
 
 ## Areas of Interest
-* Academic/Research libraries
+* Academic/research libraries
 * Digital repositories and digital asset management
 * Metadata, particularly ethical and accessible description
+* Open source tools
 * Audiovisual and oral history collections
 * IBPOC advocacy in library, archival, and information settings
 
@@ -33,8 +34,8 @@ I am an MLIS student at the UBC School of Information and projected to graduate 
 ## Technical Skills
 Demonstrated working experience with:
 * Digital repository systems and software
+    * Islanodra
     * DSpace
-    * Islandora
 * Metadata remediation tools
     * OpenRefine
     * @mire Metadata Quality Module
