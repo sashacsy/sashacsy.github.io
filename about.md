@@ -6,8 +6,8 @@ permalink: /about/
 
 ![](https://github.com/sashacsy/sashacsy.github.io/blob/master/files/SashaGaylie-modified.png?raw=true)
 
-Hello! My name is Sasha and my pronouns are she/her.
-I am a queer and mixed-race, second-generation Chinese settler born, raised, and living on the traditional and unceded lands of the sc̓əwaθenaɁɬ təməxʷ (Tsawwassen), Stó:lō, Stz’uminus, and xʷməθkʷəy̓əm (Musqueam) peoples.
+Hello! My name is Sasha and I use she/her pronouns.
+I am a queer and mixed-race, second-generation Chinese settler born, raised, and living on the traditional and unceded lands of the sc̓əwaθən məsteyəxʷ (Tsawwassen), Stó:lō, Stz’uminus, and xʷməθkʷəy̓əm (Musqueam) peoples.
 
 I am a recent graduate of the UBC School of Information, having completed my MLIS in May 2022.
 
