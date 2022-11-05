@@ -34,7 +34,7 @@ I am a recent graduate of the UBC School of Information, having completed my MLI
 ## Technical Skills
 Demonstrated working experience with:
 * Digital repository systems and software
-    * Islanodra
+    * Islandora
     * DSpace
 * Metadata remediation tools
     * OpenRefine
