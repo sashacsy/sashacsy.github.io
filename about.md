@@ -20,8 +20,9 @@ I am a recent graduate of the UBC School of Information, having completed my MLI
 * IBPOC advocacy in library, archival, and information settings
 
 ## Professional Experience
+* [Jan 2023 - Present](#) \\\ Archival Assistant, Squamish Nation
 * [Aug 2021 - Present](#)  \\\ Student Librarian, BC Electronic Library Network
-* [May 2021 - Present](#)  \\\ Digital Repository Research Assistant, cIRcle @ Digital Initiatives, UBC Library
+* [May 2021 - May 2022](#)  \\\ Digital Repository Research Assistant, cIRcle @ Digital Initiatives, UBC Library
 * [Feb 2019 - Aug 2020](#) \\\ English Instructor, Jes Island Language Academy, Seoul, SK
 * [May 2018 - Sep 2018](#) \\\ Graduate Academic Assistant, Rare Books & Special Collections/PARC, UBC Library
 * [Oct 2017 - Dec 2021](#) \\\ Library Service Assistant, Vancouver Public Library
@@ -56,6 +57,10 @@ Demonstrated working experience with:
 * Transcription applications
     * Express Scribe
     * oTranscribe
+    * Otter AI
+* OCR software
+    * Adobe Acrobat Pro
+    * Tesseract
 * Project management platforms
     * Asana
     * Trello
@@ -92,4 +97,4 @@ Demonstrated working experience with:
 
 
 <br><br>
-Last Updated: 2022-02-10
+Last Updated: 2023-02-21
