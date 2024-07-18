@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: sasha han
-description: Hi! I'm a recent MLIS graduate interested in academic librarianship and digital repositories. Browse my projects below.
+description: Hi! I'm an early career librarian working with consortia, metadata, and digital repositories. Browse my projects below.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sashacsy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: sashacsy.github.io # the GitHub repo name for your project

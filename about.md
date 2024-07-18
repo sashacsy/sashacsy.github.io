@@ -6,10 +6,9 @@ permalink: /about/
 
 ![](https://github.com/sashacsy/sashacsy.github.io/blob/master/files/SashaGaylie-modified.png?raw=true)
 
-Hello! My name is Sasha and I use she/her pronouns.
-I am a queer and mixed-race, second-generation Chinese settler born, raised, and living on the traditional and unceded lands of the sc̓əwaθən məsteyəxʷ (Tsawwassen), Stó:lō, Stz’uminus, and xʷməθkʷəy̓əm (Musqueam) peoples.
+Hi! I'm Sasha (she/her) and I am a queer, mixed, second-gen Chinese Canadian settler born, raised, and living on the traditional and unceded lands of the sc̓əwaθən məsteyəxʷ (Tsawwassen), Stó:lō, Stz’uminus, and xʷməθkʷəy̓əm (Musqueam) peoples.
 
-I am a recent graduate of the UBC School of Information, having completed my MLIS in May 2022.
+I am a fairly recent graduate of the UBC School of Information, having completed my MLIS in May 2022.
 
 ## Areas of Interest
 * Academic/research libraries
@@ -17,13 +16,14 @@ I am a recent graduate of the UBC School of Information, having completed my MLI
 * Metadata, particularly ethical and accessible description
 * Open source tools
 * Audiovisual and oral history collections
-* IBPOC advocacy in library, archival, and information settings
+* Advocacy for equity-deserving groups in library, archival, and information settings
 
 ## Professional Experience
-* [Jan 2023 - Present](#) \\\ Archival Assistant, Squamish Nation
-* [Aug 2021 - Present](#)  \\\ Student Librarian, BC Electronic Library Network
-* [May 2021 - May 2022](#)  \\\ Digital Repository Research Assistant, cIRcle @ Digital Initiatives, UBC Library
-* [Feb 2019 - Aug 2020](#) \\\ English Instructor, Jes Island Language Academy, Seoul, SK
+* [Jan 2024 - Present](#)  \\\ Librarian - Arca Migration Specialist, BC Electronic Library Network
+* [Aug 2021 - Dec 2023](#)  \\\ Student Librarian, BC Electronic Library Network
+* [Jan 2023 - Oct 2023](#) \\\ Archival Assistant, Squamish Nation
+* [May 2021 - May 2022](#)  \\\ Digital Repository Research Assistant, cIRcle, UBC Library
+* [Feb 2019 - Aug 2020](#) \\\ English Instructor, Jes Island Language Academy, Seoul, South Korea
 * [May 2018 - Sep 2018](#) \\\ Graduate Academic Assistant, Rare Books & Special Collections/PARC, UBC Library
 * [Oct 2017 - Dec 2021](#) \\\ Library Service Assistant, Vancouver Public Library
 * [Sep 2017 - Dec 2018](#) \\\ Circulation & Collections Management Assistant, RBSC, UBC Library
@@ -47,13 +47,9 @@ Demonstrated working experience with:
 * Content Management Systems
     * WordPress
     * Drupal
-* Integrated Library Systems
-    * Horizon
-    * Voyager
-* MS Office Suite
 * Tools for static site creation
-    * Git / Github
     * Jekyll
+    * MkDocs
 * Transcription applications
     * Express Scribe
     * oTranscribe
@@ -68,7 +64,7 @@ Demonstrated working experience with:
     * Basecamp
 
 ## Community Involvement
-* [Aug 2020 - Present](#)  \\\ <a href="https://ubcideas.wordpress.com/">IDEAS@UBC</a>
+* [Aug 2020 - May 2022](#)  \\\ <a href="https://ubcideas.wordpress.com/">IDEAS@UBC</a>
 * [May 2018 - Feb 2019](#) \\\ Yarrow Intergenerational Society for Justice 世代同⾏會
 * [May 2016 - Mar 2018](#) \\\ Youth for Chinese Seniors
 
@@ -97,4 +93,4 @@ Demonstrated working experience with:
 
 
 <br><br>
-Last Updated: 2023-02-21
+Last Updated: 2024-07-18
