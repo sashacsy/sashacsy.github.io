@@ -64,7 +64,7 @@ Demonstrated working experience with:
     * Basecamp
 
 ## Community Involvement
-* [Aug 2020 - May 2022](#)  \\\ <a href="https://ubcideas.wordpress.com/">IDEAS@UBC</a>
+* [Aug 2020 - May 2022](#)  \\\ IDEAS@UBC
 * [May 2018 - Feb 2019](#) \\\ Yarrow Intergenerational Society for Justice 世代同⾏會
 * [May 2016 - Mar 2018](#) \\\ Youth for Chinese Seniors
 
