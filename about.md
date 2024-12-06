@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![](https://github.com/sashacsy/sashacsy.github.io/blob/master/files/SashaGaylie-modified.png?raw=true)
+![](https://github.com/sashacsy/sashacsy.github.io/blob/master/files/sashahan.png?raw=true)
 
 Hi! I'm Sasha (she/her) and I am a queer, mixed, second-gen Chinese Canadian settler born, raised, and living on the traditional and unceded lands of the sc̓əwaθən məsteyəxʷ (Tsawwassen), Stó:lō, Stz’uminus, and xʷməθkʷəy̓əm (Musqueam) peoples.
 
